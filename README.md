@@ -53,9 +53,6 @@
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><br>Java
       </td>
       <td align="center">
-        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/JavaFX_Logo.png" alt="JavaFX"><br>JavaFX
-      </td>
-      <td align="center">
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><br>Python
       </td>
       <td align="center">
@@ -82,13 +79,13 @@
   <table>
     <tr>
       <td align="center">
-        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"><br>Android Studio
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio"><br>Android Studio
       </td>
       <td align="center">
-        <img width="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"><br>Firebase
+        <img width="32px" src="https://www.gstatic.com/devrel-devsite/prod/vce7dc8716edeb3714adfe4dd15b25490031be374149e3613a8b7fb0be9fc4a25/firebase/images/touchicon-180.png" alt="Firebase"><br>Firebase
       </td>
       <td align="center">
-        <img width="32px" src="https://developer.android.com/images/jetpack/compose-tutorial/jetpack-compose.svg" alt="Jetpack Compose"><br>Jetpack Compose
+        <img width="32px" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" alt="Jetpack Compose"><br>Jetpack Compose
       </td>
     </tr>
   </table>
@@ -108,7 +105,10 @@
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"><br>Angular
       </td>
       <td align="center">
-        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle"><br>Gradle
+        <img width="32px" src="https://www.tutkit.com/storage/media/packages/352/352-javafx-fuer-gui-entwicklung-main-med.webp" alt="JavaFX"><br>JavaFX
+      </td>
+      <td align="center">
+        <img width="32px" src="https://static-00.iconduck.com/assets.00/gradle-icon-256x188-h9jmpn4f.png" alt="Gradle"><br>Gradle
       </td>
       <td align="center">
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"><br>Spring Boot
@@ -117,16 +117,16 @@
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate"><br>Hibernate
       </td>
       <td align="center">
-        <img width="32px" src="https://moodle.com/wp-content/uploads/2021/10/moodle-logo.svg" alt="Moodle"><br>Moodle
+        <img width="32px" src="https://w7.pngwing.com/pngs/78/454/png-transparent-moodle-original-logo-icon-thumbnail.png" alt="Moodle"><br>Moodle
       </td>
       <td align="center">
-        <img width="32px" src="https://seeklogo.com/images/O/ovh-logo-67B56BDDD4-seeklogo.com.png" alt="OVH Cloud"><br>OVH Cloud
+        <img width="32px" src="https://e7.pngegg.com/pngimages/640/734/png-clipart-ovh-virtual-private-server-cloud-computing-web-hosting-service-dedicated-hosting-service-promotions-logo-company-text.png" alt="OVH Cloud"><br>OVH Cloud
       </td>
       <td align="center">
-        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Putty_Icon.png" alt="Putty"><br>Putty
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/PuTTY_Icon_upstream.svg/1200px-PuTTY_Icon_upstream.svg.png" alt="Putty"><br>PuTTY
       </td>
       <td align="center">
-        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.png" alt="VirtualBox"><br>VirtualBox
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox"><br>VirtualBox
       </td>
       <td align="center">
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"><br>Ubuntu
