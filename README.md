@@ -94,28 +94,28 @@
       <td align="center">
         <img width="32px" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" alt="Jetpack Compose"><br>Jetpack Compose
       </td>
+      <td align="center">
+        <img width="32px" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" alt="Jetpack Compose"><br>Jetpack Navigation 3
+      </td>
+      <td align="center">
+        <img width="32px" src="https://static-00.iconduck.com/assets.00/gradle-icon-256x188-h9jmpn4f.png" alt="Gradle"><br>Gradle
+      </td>
+      <td align="center">
+        <img width="32px" src="https://miro.medium.com/v2/resize:fit:1400/0*wV4VZmMWTNCL2pNK.jpg" alt="Gradle"><br>Room Database
+      </td>
     </tr>
   </table>
 </div>
 
-<h3>🛠️ Tools & Frameworks</h3>
+<h3> 🏠 Frameworks</h3>
 <div style="overflow-x: auto; white-space: nowrap;">
   <table>
     <tr>
-      <td align="center">
-        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><br>Git
-      </td>
-      <td align="center">
-        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"><br>GitHub
-      </td>
       <td align="center">
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"><br>Angular
       </td>
       <td align="center">
         <img width="32px" src="https://www.tutkit.com/storage/media/packages/352/352-javafx-fuer-gui-entwicklung-main-med.webp" alt="JavaFX"><br>JavaFX
-      </td>
-      <td align="center">
-        <img width="32px" src="https://static-00.iconduck.com/assets.00/gradle-icon-256x188-h9jmpn4f.png" alt="Gradle"><br>Gradle
       </td>
       <td align="center">
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"><br>Spring Boot
@@ -126,20 +126,43 @@
       <td align="center">
         <img width="32px" src="https://w7.pngwing.com/pngs/78/454/png-transparent-moodle-original-logo-icon-thumbnail.png" alt="Moodle"><br>Moodle
       </td>
+    </tr>
+  </table>
+</div>
+
+<h3>🛠️ Tools & IDES</h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><br>Git
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub"><br>GitHub
+      </td>
+      <td align="center">
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"><br>IntelliJ IDEA
+      </td>
+      <td align="center">
+        <img width="32px" src="https://images.icon-icons.com/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="Visual Studio Code"><br>Visual Studio Code
+      </td>
+      <td align="center">
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/250px-HeidiSQL_logo_image.png" alt="Heidi SQL"><br>Heidi SQL
+      </td>
+      <td align="center">
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="DBeaver"><br>DBeaver
+      </td>
       <td align="center">
         <img width="32px" src="https://e7.pngegg.com/pngimages/640/734/png-clipart-ovh-virtual-private-server-cloud-computing-web-hosting-service-dedicated-hosting-service-promotions-logo-company-text.png" alt="OVH Cloud"><br>OVH Cloud
       </td>
       <td align="center">
-        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/PuTTY_Icon_upstream.svg/1200px-PuTTY_Icon_upstream.svg.png" alt="Putty"><br>PuTTY
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/PuTTY_Icon_upstream.svg/1200px-PuTTY_Icon_upstream.svg.png" alt="PuTTY"><br>PuTTY
       </td>
       <td align="center">
         <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox"><br>VirtualBox
       </td>
       <td align="center">
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"><br>Ubuntu
-      </td>
-      <td align="center">
-        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Java_Swing_logo.png" alt="Java Swing"><br>Java Swing
       </td>
     </tr>
   </table>
