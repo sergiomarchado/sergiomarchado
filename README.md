@@ -6,7 +6,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Sergio Marchado</h1>
 
 <p align="center">
   <em>💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
