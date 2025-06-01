@@ -2,9 +2,7 @@
   <img src="https://i.imgur.com/DJ4Mh3I.png">
 </div>
 
-
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi there! 👋 I'm Sergio Marchado</h1>
 
@@ -12,7 +10,8 @@
   <em>💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
   📱 Android & Mobile Developer passionate about building modern and engaging mobile apps.</em>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
 <hr>
 
 <p>
