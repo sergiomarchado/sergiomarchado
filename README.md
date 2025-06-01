@@ -6,10 +6,17 @@
 
 <h1 align="center">Hi there! 👋 I'm Sergio Marchado</h1>
 
+<div align="center">
 <p align="center">
   <em>💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
   📱 Android & Mobile Developer passionate about building modern and engaging mobile apps.</em>
 </p>
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiomarchado&layout=compact&langs_count=8&theme=algolia"/>
+
+  
+</div>
+
+
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <hr>
