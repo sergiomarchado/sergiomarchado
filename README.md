@@ -30,65 +30,116 @@
   <strong>¡Siempre abierto a nuevas oportunidades y colaboraciones!</strong> 🚀
 </p>
 
-<hr>
+<h2> My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
 
-<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
-
-<h3>💻 Languages</h3>
 <p>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin">
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
-  </a>
+  Here’s a quick look at the languages, tools, and technologies I use in my daily work as a developer.<br>
+  I love exploring new frameworks and always keep an eye out for the next big thing! 😊
 </p>
+
+<p>
+  Aquí tienes un vistazo rápido a los lenguajes, herramientas y tecnologías que uso en mi día a día como desarrollador.<br>
+  ¡Me encanta explorar nuevos frameworks y estar al tanto de lo último en el sector! 😊
+</p>
+
+<h3>💻 Languages & Markup</h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"><br>Kotlin
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><br>Java
+      </td>
+      <td align="center">
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/JavaFX_Logo.png" alt="JavaFX"><br>JavaFX
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><br>Python
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"><br>JavaScript
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"><br>TypeScript
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"><br>HTML
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"><br>CSS
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL"><br>SQL
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3>📱 Mobile Development</h3>
-<p>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio">
-  </a>
-  <a href="https://firebase.google.com" target="_blank">
-    <img width="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase">
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img width="32px" src="https://developer.android.com/images/jetpack/compose-tutorial/jetpack-compose.svg" alt="Jetpack Compose">
-  </a>
-  <img width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/navigation_nav_icon_168465.png" alt="Navigation Component" title="Jetpack Navigation Component">
-</p>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"><br>Android Studio
+      </td>
+      <td align="center">
+        <img width="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"><br>Firebase
+      </td>
+      <td align="center">
+        <img width="32px" src="https://developer.android.com/images/jetpack/compose-tutorial/jetpack-compose.svg" alt="Jetpack Compose"><br>Jetpack Compose
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3>🗄️ Databases</h3>
-<p>
-  <a href="https://www.mysql.com" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
-  </a>
-  <img width="32px" src="https://cdn.worldvectorlogo.com/logos/dbeaver.svg" alt="DBeaver" title="DBeaver">
-  <img width="32px" src="https://static-00.iconduck.com/assets.00/heidisql-icon-2048x2048-b84yznc9.png" alt="HeidiSQL" title="HeidiSQL">
-</p>
-
-<h3>🛠️ IDES, Tools & Frameworks</h3>
-<p>
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate">
-  <img width="32px" src="https://moodle.com/wp-content/uploads/2021/10/moodle-logo.svg" alt="Moodle">
-</p>
+<h3>🛠️ Tools & Frameworks</h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><br>Git
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"><br>GitHub
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"><br>Angular
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle"><br>Gradle
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"><br>Spring Boot
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate"><br>Hibernate
+      </td>
+      <td align="center">
+        <img width="32px" src="https://moodle.com/wp-content/uploads/2021/10/moodle-logo.svg" alt="Moodle"><br>Moodle
+      </td>
+      <td align="center">
+        <img width="32px" src="https://seeklogo.com/images/O/ovh-logo-67B56BDDD4-seeklogo.com.png" alt="OVH Cloud"><br>OVH Cloud
+      </td>
+      <td align="center">
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Putty_Icon.png" alt="Putty"><br>Putty
+      </td>
+      <td align="center">
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.png" alt="VirtualBox"><br>VirtualBox
+      </td>
+      <td align="center">
+        <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"><br>Ubuntu
+      </td>
+      <td align="center">
+        <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Java_Swing_logo.png" alt="Java Swing"><br>Java Swing
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr>
+
 
 <h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
