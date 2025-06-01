@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/DJ4Mh3I.png">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
@@ -12,10 +12,11 @@
   <em>💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
   📱 Android & Mobile Developer passionate about building modern and engaging mobile apps.</em>
 </p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 <hr>
 
 <p>
+  Hello and welcome! I'm excited to have you here 😄— let me introduce myself.<br><br>
   I'm a Junior Android Developer based in Madrid (Spain), focused on creating impactful and user-friendly mobile applications.<br><br>
   I love working with modern Android technologies to deliver seamless and delightful user experiences.<br><br>
   <strong>I'm always open to new opportunities and collaborations!</strong> 🚀
@@ -24,6 +25,7 @@
 <h2>🌟 Sobre Mí (Español)</h2>
 
 <p>
+  ¡Hola y bienvenido/a! Me alegra que estés aquí 😄— permíteme presentarme.<br><br>
   Soy un desarrollador Android junior de Madrid (España), centrado en crear aplicaciones móviles modernas y atractivas.<br><br>
   Me encanta trabajar con tecnologías Android actuales para ofrecer experiencias de usuario fluidas y atractivas.<br><br>
   <strong>¡Siempre abierto a nuevas oportunidades y colaboraciones!</strong> 🚀
