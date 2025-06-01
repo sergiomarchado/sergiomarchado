@@ -103,6 +103,12 @@
       <td align="center">
         <img width="32px" src="https://miro.medium.com/v2/resize:fit:1400/0*wV4VZmMWTNCL2pNK.jpg" alt="Gradle"><br>Room Database
       </td>
+      <td align="center">
+        <img width="32px" src="https://miro.medium.com/v2/resize:fit:1400/0*zq3hlMok5cOpAbmt.jpg" alt="Retrofit"><br>Retrofit
+      </td>
+      <td align="center">
+        <img width="32px" src="https://miro.medium.com/v2/resize:fit:800/1*YlpdjL55_AM87TGZIwx-2w.jpeg" alt="Volley"><br>Volley
+      </td>
     </tr>
   </table>
 </div>
