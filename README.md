@@ -24,14 +24,14 @@
 <h2>🌟 Sobre Mí (Español)</h2>
 
 <p>
-  Soy un desarrollador Android junior de España, centrado en crear aplicaciones móviles modernas y atractivas.<br><br>
+  Soy un desarrollador Android junior de Madrid (España), centrado en crear aplicaciones móviles modernas y atractivas.<br><br>
   Me encanta trabajar con tecnologías Android actuales para ofrecer experiencias de usuario fluidas y atractivas.<br><br>
   <strong>¡Siempre abierto a nuevas oportunidades y colaboraciones!</strong> 🚀
 </p>
 
 <hr>
 
-<h2>⚡ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
+<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
 
 <h3>💻 Languages</h3>
 <p>
@@ -81,7 +81,7 @@
   <img width="32px" src="https://static-00.iconduck.com/assets.00/heidisql-icon-2048x2048-b84yznc9.png" alt="HeidiSQL" title="HeidiSQL">
 </p>
 
-<h3>🛠️ Tools & Frameworks</h3>
+<h3>🛠️ IDES, Tools & Frameworks</h3>
 <p>
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate">
   <img width="32px" src="https://moodle.com/wp-content/uploads/2021/10/moodle-logo.svg" alt="Moodle">
@@ -89,7 +89,7 @@
 
 <hr>
 
-<h2>🤝 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <p align="center">
   <a href="https://github.com/sergiomarchado" target="_blank">
