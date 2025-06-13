@@ -45,7 +45,7 @@
   <tr>
     <td>
       <a href="https://github.com/sergiomarchado/GuiaDeViajes_Android_GPT" target="_blank">
-        <img src="https://img.youtube.com/vi/MD548YvtCis/0.jpg" alt="Pet Explorer" width="300px"/><br>
+        <img src="https://img.youtube.com/vi/bxl1MVW5XJs/0.jpg" alt="Pet Explorer" width="300px"/><br>
         <strong>PET EXPLORER</strong><br>
         App Android con Jetpack Compose, Google Maps y ChatGPT API
       </a>
