@@ -37,6 +37,24 @@
   <strong>¡Siempre abierto a nuevas oportunidades y colaboraciones!</strong> 🚀
 </p>
 
+---
+
+## 🚀 Proyectos Personales Destacados
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sergiomarchado/GuiaDeViajes_Android_GPT" target="_blank">
+        <img src="https://img.youtube.com/vi/MD548YvtCis/0.jpg" alt="Pet Explorer" width="300px"/><br>
+        <strong>PET EXPLORER</strong><br>
+        App Android con Jetpack Compose, Google Maps y ChatGPT API
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2> My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
 
 <p>
