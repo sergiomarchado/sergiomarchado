@@ -50,6 +50,13 @@
         App Android con Jetpack Compose, Google Maps y ChatGPT API
       </a>
     </td>
+    <td>
+      <a href="https://github.com/sergiomarchado/spring-jwt-auth-api" target="_blank">
+        <img src="https://img.youtube.com/vi/vFPjKX565T4/0.jpg" alt="ShareList API" width="300px"/><br>
+        <strong>ShareList API</strong><br>
+        API REST con autenticación JWT, validaciones y estructura limpia con Spring Boot
+      </a>
+    </td>
   </tr>
 </table>
 
