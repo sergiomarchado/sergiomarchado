@@ -51,10 +51,10 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/sergiomarchado/spring-jwt-auth-api" target="_blank">
-        <img src="https://img.youtube.com/vi/vFPjKX565T4/0.jpg" alt="ShareList API" width="300px"/><br>
-        <strong>ShareList API</strong><br>
-        API REST con autenticación JWT, validaciones y estructura limpia con Spring Boot
+      <a href="https://github.com/sergiomarchado/TheBestDAMKebap" target="_blank">
+        <img src="https://github.com/sergiomarchado/TheBestDAMKebap/blob/master/screenshots/portadathebestdamkebab.png" alt="The Best DAM Kebab" width="300px"/><br>
+        <strong>The Best DAM Kebab</strong><br>
+        App de comida a domicilio muestrario para animar a comercios locales a implementar soluciones nativas en Android.
       </a>
     </td>
   </tr>
@@ -67,7 +67,13 @@
       App Android para crear, editar y exportar checklists de cabina en aviación ✨
     </a>
   </td>
-  <td></td>
+  <td>
+      <a href="https://github.com/sergiomarchado/spring-jwt-auth-api" target="_blank">
+        <img src="https://img.youtube.com/vi/vFPjKX565T4/0.jpg" alt="ShareList API" width="300px"/><br>
+        <strong>ShareList API</strong><br>
+        API REST con autenticación JWT, validaciones y estructura limpia con Spring Boot
+      </a>
+    </td>
 </tr>
 </table>
 
